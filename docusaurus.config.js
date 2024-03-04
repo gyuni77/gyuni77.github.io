@@ -76,11 +76,11 @@ const config = {
         },
       ],
       navbar: {
-        title: "My Site",
-        logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
-        },
+        title: "🏆 gyuni's Daily Study",
+        // logo: {
+        //   alt: "My Site Logo",
+        //   src: "img/logo.svg",
+        // },
         items: [
           {
             type: "docSidebar",
@@ -92,13 +92,19 @@ const config = {
             type: "docSidebar",
             sidebarId: "FE",
             position: "left",
-            label: "🖥️FE",
+            label: "FE",
           },
           {
             type: "docSidebar",
             sidebarId: "BE",
             position: "left",
-            label: "💣BE",
+            label: "BE",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "IT",
+            position: "left",
+            label: "IT",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {

@@ -2,8 +2,6 @@
 sidebar_position: 1
 ---
 
-# FE01
+# FE
 
 ## 본문 1
-
-## 본문 2
